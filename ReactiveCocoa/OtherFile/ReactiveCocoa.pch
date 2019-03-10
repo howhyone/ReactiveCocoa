@@ -1,0 +1,19 @@
+//
+//  ReactiveCocoa.pch
+//  ReactiveCocoa
+//
+//  Created by mob on 2019/3/10.
+//  Copyright © 2019年 mob. All rights reserved.
+//
+
+#ifndef ReactiveCocoa_pch
+#define ReactiveCocoa_pch
+
+
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveCocoa/RACEXTScope.h>
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* ReactiveCocoa_pch */
